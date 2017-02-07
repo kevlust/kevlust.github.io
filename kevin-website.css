@@ -54,3 +54,16 @@ img {
 #yellow-button {
 	background-color: yellow;
 }
+
+#back-yellow {
+	font-size: 28px;
+	color: yellow;
+	top: 50%;
+}
+
+#back-blue {
+	font-size: 28px;
+	color: #47C6E2;
+	top: 50%;
+}
+}
