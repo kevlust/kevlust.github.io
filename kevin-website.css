@@ -1,7 +1,6 @@
-
 body {
 	background-color: #252525;
-	font-size: 14px;
+	font-size: 16px;
 	font-family: Trebuchet MS;
 	color: white;
 	margin-left: 12%;
@@ -10,7 +9,7 @@ body {
 
 h1 {
 	text-align: center;
-	background-color: #47C6E2; /*#7AD8EE; azul bueno*/ 
+	background-color: #47C6E2;
 	color: #252525;
 	position: relative;
 	top: 50%;
@@ -30,4 +29,28 @@ h3 {
 
 p {
 	margin-top: 5px;
+}
+
+.year {
+	text-align: center;
+	font-size: 28px;
+	color: yellow;
+	top: 50%;
+}
+
+#robotic {
+	font-size: 40px;
+	font-family: OCR A Std;
+	color: white;
+	text-align: center;
+}
+
+img {
+	width: 100%;
+	margin-bottom: 15px;
+	text-align: center;
+}
+
+#yellow-button {
+	background-color: yellow;
 }
